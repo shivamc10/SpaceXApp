@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SpaceXApp"
+    }
+  },
+  "defaultProject": "SpaceXApp",
+  "cli": {
+    "analytics": "005d37e5-ef4e-4998-8790-ddbef2d0c522"
+  }
 }
